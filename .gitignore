@@ -1,0 +1,13 @@
+.claude/
+.edge-profile/
+.vscode/
+
+Gaming Sidekick Portable/Profile/
+Gaming Sidekick Portable/build/
+Gaming Sidekick Portable/*.TMP
+
+video-game-encyclopedia-master/
+Video-Game-Sales-Dataset-main/
+
+mobile-smoke.png
+*.zip
